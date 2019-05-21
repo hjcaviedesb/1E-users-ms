@@ -1,0 +1,48 @@
+html, body {
+    margin:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.div{
+    background-color: rgb(20, 125, 135);
+
+}
+
+.white{
+    color: white;
+}
+
+.large-padding{
+    padding:15px 10px;
+}
+
+a:visited {
+    color:inherit !important;
+    text-decoration: none;
+}
+
+.no-marg{
+    margin:0px;
+}
+
+.col{
+    float:right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.form-control{
+    border: none;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 60%;
+    display: block;
+    padding: 10px, 0px;
+    font-size: 1.2em;
+}
+
+.field, .actions{
+    margin-top: 1em;
+}
